@@ -1,0 +1,2 @@
+[console_scripts]
+excel-parser = excel_parser:print_colored_table

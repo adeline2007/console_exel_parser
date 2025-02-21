@@ -1,0 +1,8 @@
+excel_parser.py
+setup.py
+excel_parser.egg-info/PKG-INFO
+excel_parser.egg-info/SOURCES.txt
+excel_parser.egg-info/dependency_links.txt
+excel_parser.egg-info/entry_points.txt
+excel_parser.egg-info/requires.txt
+excel_parser.egg-info/top_level.txt
